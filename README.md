@@ -1,0 +1,2 @@
+[![Build Status](https://app.travis-ci.com/MikhailPushkarev25/job4j_cinema..svg?branch=main)](https://app.travis-ci.com/MikhailPushkarev25/job4j_cinema.)
+[![codecov](https://codecov.io/gh/MikhailPushkarev25/job4j_cinema./branch/main/graph/badge.svg?token=SNfMS7lMWq)](https://codecov.io/gh/MikhailPushkarev25/job4j_cinema.)
